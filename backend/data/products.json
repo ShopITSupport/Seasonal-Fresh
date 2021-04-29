@@ -1,0 +1,167 @@
+[
+    {
+        "name": "SanDisk Ultra 128GB SDXC UHS-I Memory Card upto 80MB/s",
+        "price": "45.89",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "sample",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+    {
+        "name": "Nikon Camera",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "sample",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+        }],
+        "category": "Cameras",
+        "seller": "Amazon",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+    {
+        "name": "JBL Headphones",
+        "price": "10.15",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "sample",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+        }],
+        "category": "Headphones",
+        "seller": "Flipkart",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    }
+    ,{
+        "name": "HP Pavilion",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "sample",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+        }],
+        "category": "Laptops",
+        "seller": "Paytm",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+    {
+        "name": "Cricket Bat",
+        "price": "5.24",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "sample",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+        }],
+        "category": "Sports",
+        "seller": "Myntra",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+    {
+        "name": "Jeans",
+        "price": "2.20",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "sample",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+        }],
+        "category": "Home",
+        "seller": "Myntra",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+    {
+        "name": "Pizza",
+        "price": "1.10",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "sample",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+        }],
+        "category": "Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+    {
+        "name": "Nursery Rhymes",
+        "price": "0.24",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "sample",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+        }],
+        "category": "Books",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+    {
+        "name": "SanDisk Ultra 8GB SDXC UHS-I Memory Card upto 80MB/s",
+        "price": "4.89",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "sample",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+    {
+        "name": "SanDisk Ultra 12GB SDXC UHS-I Memory Card upto 80MB/s",
+        "price": "5.89",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "sample",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+    {
+        "name": "SanDisk Ultra 32GB SDXC UHS-I Memory Card upto 80MB/s",
+        "price": "8.52",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "sample",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    }
+]
