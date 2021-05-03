@@ -8,7 +8,7 @@
             "public_id": "sample",
             "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
         }],
-        "category": "Electronics",
+        "category": "Protiens",
         "seller": "eBay",
         "stock": 50,
         "numOfReviews": 32,
@@ -23,7 +23,7 @@
             "public_id": "sample",
             "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
         }],
-        "category": "Cameras",
+        "category": "Protiens",
         "seller": "Amazon",
         "stock": 50,
         "numOfReviews": 32,
@@ -38,7 +38,7 @@
             "public_id": "sample",
             "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
         }],
-        "category": "Headphones",
+        "category": "Protiens",
         "seller": "Flipkart",
         "stock": 50,
         "numOfReviews": 32,
@@ -53,7 +53,7 @@
             "public_id": "sample",
             "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
         }],
-        "category": "Laptops",
+        "category": "Protiens",
         "seller": "Paytm",
         "stock": 50,
         "numOfReviews": 32,
@@ -68,7 +68,7 @@
             "public_id": "sample",
             "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
         }],
-        "category": "Sports",
+        "category": "Protiens",
         "seller": "Myntra",
         "stock": 50,
         "numOfReviews": 32,
@@ -83,7 +83,7 @@
             "public_id": "sample",
             "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
         }],
-        "category": "Home",
+        "category": "Protiens",
         "seller": "Myntra",
         "stock": 50,
         "numOfReviews": 32,
@@ -98,7 +98,7 @@
             "public_id": "sample",
             "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
         }],
-        "category": "Foods",
+        "category": "Protiens",
         "seller": "eBay",
         "stock": 50,
         "numOfReviews": 32,
@@ -113,7 +113,7 @@
             "public_id": "sample",
             "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
         }],
-        "category": "Books",
+        "category": "Protiens",
         "seller": "eBay",
         "stock": 50,
         "numOfReviews": 32,
@@ -128,7 +128,7 @@
             "public_id": "sample",
             "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
         }],
-        "category": "Electronics",
+        "category": "Protiens",
         "seller": "eBay",
         "stock": 50,
         "numOfReviews": 32,
@@ -143,7 +143,7 @@
             "public_id": "sample",
             "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
         }],
-        "category": "Electronics",
+        "category": "Protiens",
         "seller": "eBay",
         "stock": 50,
         "numOfReviews": 32,
@@ -158,7 +158,7 @@
             "public_id": "sample",
             "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
         }],
-        "category": "Electronics",
+        "category": "Protiens",
         "seller": "eBay",
         "stock": 50,
         "numOfReviews": 32,
