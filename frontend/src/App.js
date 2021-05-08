@@ -5,6 +5,8 @@ import Footer from './components/layout/Footer'
 import Home from './components/Home'
 import ProductDetails from './components/product/ProductDetails'
 
+import Login from './components/user/Login'
+
 function App() {
   return (
     <Router>
@@ -14,6 +16,7 @@ function App() {
           <Route path="/" component={Home} exact></Route>
           <Route path="/search/:keyword" component={Home}></Route>
           <Route path="/product/:id" component={ProductDetails} exact></Route>
+          <Route path="/login" component={Login}></Route>
         </div>
         <Footer />
       </div>
