@@ -1,102 +1,117 @@
 [
     {
-        "name": "SanDisk Ultra 128GB SDXC UHS-I Memory Card upto 80MB/s",
-        "price": "45.89",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "name": "Dry Prawns",
+        "price": "75",
+        "description": "Dry Big Prawns are a great source of high quality protein, and provide some of the most important vitamins and minerals that make up a healthy diet. They are surprisingly low in calories and are made up of extremely healthy cholesterol.",
         "ratings": "4.5",
         "images": [{
-            "public_id": "sample",
-            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+            "public_id": "Products/dry_prawns_cxbibi",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620109330/Products/dry_prawns_cxbibi.jpg"
         }],
-        "category": "Protiens",
+        "category": "Dry Sea Foods",
         "seller": "eBay",
         "stock": 50,
         "numOfReviews": 32,
         "reviews": [] 
     },
     {
-        "name": "Nikon Camera",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "name": "Dry Ribbon Fish",
+        "price": "60",
+        "description": "Dried Ribbon fish are excellent source of calcium. Its help in maintaining the blood pressure levels. The high calcium content in the fish is responsible for controlled blood pressure levels.",
         "ratings": "4.5",
         "images": [{
-            "public_id": "sample",
-            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+            "public_id": "Products/dry_ribbon_fish_zli7ii",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620109548/Products/dry_ribbon_fish_zli7ii.jpg"
         }],
-        "category": "Protiens",
+        "category": "Dry Sea Foods",
         "seller": "Amazon",
         "stock": 50,
         "numOfReviews": 32,
         "reviews": [] 
     },
     {
-        "name": "JBL Headphones",
-        "price": "10.15",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "name": "Dry Big Nethili Fish",
+        "price": "120",
+        "description": "Dry Anchovies (NETHILI) are rich in protein, vitamins, and minerals that help in maintaining good health. They contain calcium, iron, magnesium, phosphorus, potassium, sodium, and zinc. Dry anchovies are a good source of vitamins such as thiamin, riboflavin, niacin, folate, vitamin C.",
         "ratings": "4.5",
         "images": [{
-            "public_id": "sample",
-            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+            "public_id": "Products/dry_big_nethili_fish_byysm0",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620120514/Products/dry_big_nethili_fish_byysm0.jpg"
         }],
-        "category": "Protiens",
+        "category": "Dry Sea Foods",
         "seller": "Flipkart",
         "stock": 50,
         "numOfReviews": 32,
         "reviews": [] 
-    }
-    ,{
-        "name": "HP Pavilion",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+    },
+    {
+        "name": "Dry Sole Fish",
+        "price": "50",
+        "description": "Dry Sole Fish are rich in protein, vitamins, and minerals that help in maintaining good health. They contain calcium, iron, magnesium, phosphorus, potassium, sodium, and zinc.",
         "ratings": "4.5",
         "images": [{
-            "public_id": "sample",
-            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+            "public_id": "Products/dry_sole_fish_gbrlne",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620120710/Products/dry_sole_fish_gbrlne.jpg"
         }],
-        "category": "Protiens",
+        "category": "Dry Sea Foods",
         "seller": "Paytm",
         "stock": 50,
         "numOfReviews": 32,
         "reviews": [] 
     },
     {
-        "name": "Cricket Bat",
-        "price": "5.24",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "name": "Dry small Nethili Fish",
+        "price": "60",
+        "description": "Dry Anchovies (NETHILI) are rich in protein, vitamins, and minerals that help in maintaining good health. They contain calcium, iron, magnesium, phosphorus, potassium, sodium, and zinc. Dry anchovies are a good source of vitamins such as thiamin, riboflavin, niacin, folate, vitamin C.",
         "ratings": "4.5",
         "images": [{
-            "public_id": "sample",
-            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+            "public_id": "Products/dry_nethili_fish_small_Anchovies_zgsacy",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620120874/Products/dry_nethili_fish_small_Anchovies_zgsacy.jpg"
         }],
-        "category": "Protiens",
+        "category": "Dry Sea Foods",
         "seller": "Myntra",
         "stock": 50,
         "numOfReviews": 32,
         "reviews": [] 
     },
     {
-        "name": "Jeans",
-        "price": "2.20",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "name": "Dry Seer Fish",
+        "price": "120",
+        "description": "Dry Seer fish are rich in protein, vitamins, and minerals that help in maintaining health. They contain calcium, iron, magnesium, phosphorus, potassium, sodium, and zinc.",
         "ratings": "4.5",
         "images": [{
-            "public_id": "sample",
-            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+            "public_id": "Products/dry_seer_fish_jujgg1",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620121056/Products/dry_seer_fish_jujgg1.jpg"
         }],
-        "category": "Protiens",
+        "category": "Dry Sea Foods",
         "seller": "Myntra",
         "stock": 50,
         "numOfReviews": 32,
         "reviews": [] 
     },
     {
-        "name": "Pizza",
-        "price": "1.10",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "name": "Dry Shark Fish",
+        "price": "60",
+        "description": "Dry Shark is rich in minerals and has relatively low sodium content when compared to other salt fish available in the market.",
         "ratings": "4.5",
         "images": [{
-            "public_id": "sample",
-            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+            "public_id": "Products/dry_shark_fish_mzumdb",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620121189/Products/dry_shark_fish_mzumdb.jpg"
+        }],
+        "category": "Dry Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+    {
+        "name": "Premium Chicken-Strips(Boneless)",
+        "price": "165",
+        "description": "Devour in the chunky treat, as we bring you a fresh pack of boneless strips cut off from the chicken breast. These are buttery and spongy and almost dissolve in your mouth for it is sourced from the chicken’s most sedentary part. These slimy strips are excellent to make boneless delicacies like the Butter Chicken, Chicken 65, Lemon Garlic Chicken Delight, or shred these chickiez and slap some masalas to make your homemade Fried Rice or Noodles.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Premium_chicken_strips_Boneless_acxdic",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620121888/Products/Premium_chicken_strips_Boneless_acxdic.jpg"
         }],
         "category": "Protiens",
         "seller": "eBay",
@@ -105,13 +120,58 @@
         "reviews": [] 
     },
     {
-        "name": "Nursery Rhymes",
-        "price": "0.24",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "name": "Premium chicken Supreme(Boneless)",
+        "price": "185",
+        "description": "Devour in the chunky treat, as we bring you a fresh pack of boneless pieces cut off tenderloin part of the chicken. These are buttery and spongy and almost dissolve in your mouth for it is sourced from the chicken’s most sedentary part. These slimy pieces are excellent to make boneless delicacies like the Butter Chicken, Chicken 65, Lemon Garlic Chicken Delight, or shred these chickiez and slap some masalas to make your homemade Fried Rice or Noodles.Chicken Supreme pieces are ultra-versatile as you can make a number of chicken delicacies like the Butter Chicken, Chicken Chettinadu, Kerala Roast Chicken, Chinese chicken recipes like Chilli Chicken, Manchurian, Chicken 65, Chicken fried rice and noodles. Or go on to cook a perfect Malai Kebab, mince them to chuck onto soups and sandwiches or salads and skewers. Or cut into thin slices to make stir-fries, grills or pan-fried chicken.Feels tender and cold when touched, and looks mild pink in color.",
         "ratings": "4.5",
         "images": [{
-            "public_id": "sample",
-            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+            "public_id": "Products/Premium_chicken_supreme_Boneless_sptcl5",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620122218/Products/Premium_chicken_supreme_Boneless_sptcl5.jpg"
+        }],
+        "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+	{
+        "name": "Chicken Skin on with liver",
+        "price": "105",
+        "description": "Our Regular Chicken Curry Cut with skin is ideal for people Chicken lovers who likes to have extra crunchiness. It is a mix of meat and liver The skin helps in retaining the moisture and the natural juices of the chicken. Ideal for: Chicken crisps, Deep fried chicken and all curry preparations Freshness Indicator: Blemish-free and soft skin, with clean, pink insides. It should be cold to touch",
+		"ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Chicken_skinon_with_liver_octb2i",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620212721/Products/Chicken_skinon_with_liver_octb2i.jpg"
+        }],
+        "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+    {
+        "name": "Premium Chicken curry cut(Skin on)",
+        "price": "125",
+        "description": "Minimally processed, our chicken curry cut with skin adds heaps of flavor and texture to your dish. The skin helps in retaining the moisture and the natural juices of the chicken, giving it a lip-smacking crispiness. Ideal for: Chicken crisps, Deep fried chicken and all curry preparations Freshness Indicator: Blemish-free and soft skin, with clean, pink insides. It should be cold to touch.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/chicken_curry_cut_skin_on_j5zulj",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620122474/Products/chicken_curry_cut_skin_on_j5zulj.jpg"
+        }],
+        "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+	{
+        "name": "Chicken currycut skinoff with liver",
+        "price": "115",
+        "description": "Our Regular Chicken Curry Cut without skin is a healthy alternative for Chicken lovers who wants less fat. It is a mix of meat and liver. Our chicken liver is a rich source of vitamins, protein, and iron and the chicken pieces are great source of lean, low fat protein that is bursting with flavour and is ready to fall off the bone as soon as you cook it. Ideal for: An evergreen cut, you can make anything from Chettinadu, south Indian gravies with our regular chicken curry cut. Freshness Indicator: Blemish-free and soft skin, with clean, pink insides. It should be cold to touch.",
+		"ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Chicken_currycut-skinoff_withliver_ftz3ml",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620213091/Products/Chicken_currycut-skinoff_withliver_ftz3ml.jpg"
         }],
         "category": "Protiens",
         "seller": "eBay",
@@ -120,13 +180,13 @@
         "reviews": [] 
     },
     {
-        "name": "SanDisk Ultra 8GB SDXC UHS-I Memory Card upto 80MB/s",
-        "price": "4.89",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+        "name": "Premium Chicken curry cut(Skin off)",
+        "price": "135",
+        "description": "As most of the fat content in a chicken is stored in its skin, our chicken curry cut without the skin is a healthy alternative. A great source of lean, low-fat protein that is bursting with flavour and is ready to fall off the bone as soon as you cook it. Ideal for: An evergreen cut, you can make anything from Chettinadu, Mughlai, Punjabi, Tandoori to Chinese cuisine, with our chicken curry cut. Freshness Indicator: The chicken should be pink in colour and cold to touch. Tip: It is very easy to overcook this cut, leaving it dry and rubbery, so watch like a hawk while you are cooking.",
         "ratings": "4.5",
         "images": [{
-            "public_id": "sample",
-            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+            "public_id": "Products/chicken_curry_cut_skin_off_xcwcci",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620122761/Products/chicken_curry_cut_skin_off_xcwcci.jpg"
         }],
         "category": "Protiens",
         "seller": "eBay",
@@ -134,14 +194,14 @@
         "numOfReviews": 32,
         "reviews": [] 
     },
-    {
-        "name": "SanDisk Ultra 12GB SDXC UHS-I Memory Card upto 80MB/s",
-        "price": "5.89",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+	{
+        "name": "Chicken Biriyani Cut(Skin on)",
+        "price": "120",
+        "description": "What we have here is a hygienic pack of fresh and tender chicken pieces with skin. They are cut in sizes ideal for making your hot and spicy Chicken Biryani. Home-cooked Biryani is matchless for all the extra care and love you toss into it. And TenderCuts makes it even more special, as we have handpicked your favorite Chicken pieces you would love to dive in along with the gourmet Biryani. This pack has lip-smacking Chicken wings, thigh, drumsticks, and breast and backbone pieces. .Ideal for: Any & every Biryani you would love to make at home.Freshness Indicator: Feels tender and cold when touched, and looks mild pink in color.",
         "ratings": "4.5",
         "images": [{
-            "public_id": "sample",
-            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+            "public_id": "Products/chicken_curry_cut_skin_off_xcwcci",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620122927/Products/chicken_biriyani_cut_skin_on_h87lfj.jpg"
         }],
         "category": "Protiens",
         "seller": "eBay",
@@ -149,16 +209,1066 @@
         "numOfReviews": 32,
         "reviews": [] 
     },
-    {
-        "name": "SanDisk Ultra 32GB SDXC UHS-I Memory Card upto 80MB/s",
-        "price": "8.52",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend dolor at velit congue consequat. Aliquam sed ex ut urna accumsan consectetur a vel lectus. Duis aliquet tincidunt purus feugiat facilisis. Aliquam erat volutpat. Donec maximus orci at consectetur lobortis. Donec sapien arcu, finibus a rutrum id, sagittis at sapien. Sed tortor enim, pharetra vitae condimentum non, volutpat vel mauris. Praesent maximus iaculis risus ac sollicitudin. Sed porta odio at odio auctor, ut imperdiet lacus lobortis.",
+	{
+        "name": "Chicken Biriyani Cut(Skin off)",
+        "price": "135",
+        "description": "What we have here is a hygienic pack of fresh and tender chicken pieces without skin.They are cut in sizes ideal for making your hot and spicy Chicken Biryani. Home-cooked Biryani is matchless for all the extra care and love you toss into it. And TenderCuts makes it even more special, as we have handpicked your favorite Chicken pieces you would love to dive in along with the gourmet Biryani. This pack has lip-smacking Chicken wings, thigh, drumsticks, breast and backbone pieces.Ideal for:  Biryani, Any & every Biryani you would love to make at home.",
         "ratings": "4.5",
         "images": [{
-            "public_id": "sample",
-            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1619677066/sample.jpg"
+            "public_id": "Products/Chicken_biriyani_cut-Skinoff_nqszwy",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620123239/Products/Chicken_biriyani_cut-Skinoff_nqszwy.jpg"
         }],
         "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+	{
+        "name": "Chicken Breast Boneless",
+        "price": "120",
+        "description": "One of the most popular and versatile parts, our chicken breast is carefully trimmed up with no bone or skin. Delicious pink meat with very little fat and an excellent source of lean protein is a pretty neat deal.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/chicken_breast_boneless_jpsy4o",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620123376/Products/chicken_breast_boneless_jpsy4o.jpg"
+        }],
+        "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+	{
+        "name": "Chicken Boneless(Cubes)",
+        "price": "235",
+        "description": "Fresh pack of boneless and buttery chicken pieces cut in cubes. These supple chicken await your added masalas to absorb like a sponge, and transform into tangy chicken recipes on your plates. We have carefully curated the soft, slimy breast portions cut in uniform shapes so that they get evenly cooked. Being free from bones, you can go on and eat them with zero worries. These tiny darlings will easily become everyone's favorite in your home right from kids to elders.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Chicken_boneless_Cubes_oiupsm",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620123654/Products/Chicken_boneless_Cubes_oiupsm.jpg"
+        }],
+        "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+	{
+        "name": "Minsed Chicken",
+        "price": "260",
+        "description": "Gorgeously ground to perfection using automated systems, our minced chicken is free of trimmings, fat, bones, and sinews. With a uniform and grainy texture, it is super easy to work with.Ideal for: Perfect for kebabs, burger patties, curries, spring rolls and cutletsFreshness Indicator: The chicken should be pink in color and cold to touch.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Minced_Chicken_zonspd",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620123854/Products/Minced_Chicken_zonspd.jpg"
+        }],
+        "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+	{
+        "name": "Chicken Drumsticks",
+        "price": "130",
+        "description": "The lower quarter of the chicken’s leg, our mouth-watering, meaty chicken drumsticks are meticulously cut for even cooking. Inexpensive and easy to cook, you can drum up a culinary storm.Ideal for: The ultimate finger food, our chicken drumsticks are ideal for tandoori, barbeque or roast chicken delicacies.Freshness Indicator: The chicken should be pink in color and cold to touch.",
+        "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/chicken_drumsticks_o9sb9u",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620124690/Products/chicken_drumsticks_o9sb9u.jpg"
+        }],
+        "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+	{
+        "name": "Chicken Whole Leg",
+        "price": "135",
+        "description": "A combination of chicken drumstick and thigh, our whole chicken leg with a higher fat content, is a wonderfully juicy cut of meat. The rich flavors of the bone percolate deep within the meat once it is cooked.Ideal for: Roast, grill or make it in a tandoor, this is one cut you can never go wrong with!Freshness Indicator:The chicken should be pink in color and cold to touch.Tips: As the legs work harder than any other part of the chicken, the meat is firmer and needs to cook longer.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Chicken_Whole_leg_mcxpq2",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620125003/Products/Chicken_Whole_leg_mcxpq2.jpg"
+        }],
+        "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Chicken Liver",
+        "price": "35",
+        "description": "Though not for the weak-livered, our chicken liver with its peculiarly delicious taste and texture, that is denser than meat makes a nutritious, healthy meal packed with vitamins and iron.Ideal for: Signature dishes like Chettinad chicken liver fry, Spicy chicken liver masala, Chicken liver pepper fry, Liver bhuna",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Chicken_Liver_ijm5kx",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620125324/Products/Chicken_Liver_ijm5kx.jpg"
+        }],
+        "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Chicken Thigh and leg (Boneless)",
+        "price": "225",
+        "description": "Perfectly succulent and tender boneless chicken thigh and leg which are perfect for grill, fry and all those recipes at home that will taste absolutely delicious and there will be no bones in your meat to interrupt your happiness.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/chicken_thigh_and_leg_boneless_zdfysy",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620125454/Products/chicken_thigh_and_leg_boneless_zdfysy.jpg"
+        }],
+        "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Chicken Boneless(Cubes)1kg",
+        "price": "449",
+        "description": "These chicken cubes are ultra-versatile as you can make a number of Indian cuisines including Butter Chicken, Chicken Chettinadu, Kerala Roast Chicken, Chinese chicken recipes like Chilli Chicken, Manchurian, Chicken 65, Chicken fried rice and noodles, and a lot of other snack recipes and appetizers.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/chicken_boneless_Cubes_-1kg_eohcyx",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620125656/Products/chicken_boneless_Cubes_-1kg_eohcyx.jpg"
+        }],
+        "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Chicken Lollipop",
+        "price": "120",
+        "description": "With high meat to bone ratio, our incredibly delectable chicken lollipops are hand cut with utmost precision. Made from chicken wings, they are a perfect balance of a crisp outside and rich, moist meat.Ideal for: Perfect to get any party started!Freshness Indicator:The chicken should be pink in color and cold to touch.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Chicken_lollipop_kydvjc",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620125846/Products/Chicken_lollipop_kydvjc.jpg"
+        }],
+        "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Country Chicken curry cut skin on",
+        "price": "379",
+        "description": "Grown on farms and fed with natural agricultural produce like grains, maize and soya, our country chickens have a higher nutritional value and are a healthier alternative to broiler chicken. This also helps in developing the complexity of the meat’s flavor, giving it a wonderful, rich taste.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Country_Chicken_lmgc7y",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620126069/Products/Country_Chicken_lmgc7y.jpg"
+        }],
+        "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Country Chicken currycut skinless",
+        "price": "379",
+        "description": "Grown on farms and fed with natural agricultural produce like grains, maize and soya, our country chickens have a higher nutritional value and are a healthier alternative to broiler chicken. This also helps in developing the complexity of the meat’s flavor, giving it a wonderful, rich taste.",
+		"ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Country_chickenCurry_cut_skinless_uo1zdr",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620213544/Products/Country_chickenCurry_cut_skinless_uo1zdr.jpg"
+        }],
+        "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+	{
+        "name": "Smoky Turmeric Country Chicken Skinon",
+        "price": "399",
+        "description": "Turmeric is a powerful anti-inflammatory, antiseptic and disinfectant.It has several traditional uses, starting from the Ayurveda.. 100% naturally raised country chicken with skin is smoked in turmeric, cleaned and cut into small pieces comes in a neatly packed and ready to cook. Ideal for both curry, gravy & fry and a perfect combination to have with steamed rice and roti..",
+		"ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Smoky_Turmeric_Country_Chicken-Skin_on_xov4dv",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620213698/Products/Smoky_Turmeric_Country_Chicken-Skin_on_xov4dv.jpg"
+        }],
+        "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Chicken Wings",
+        "price": "125",
+        "description": "Add some kick to your get together with these tender chicken wings.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Chicken_wings_lxpz69",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620126274/Products/Chicken_wings_lxpz69.jpg"
+        }],
+        "category": "Protiens",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Regular Goat Curry Cut",
+        "price": 449,
+        "description": "This is a mix of bone and boneless pieces. The cuts are mix with juiciest, most succulent parts- chest, shoulders and forelimbs.But the bones have all the flavor, ribs have more fat, leg cuts are with lean meat.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/regular_goat_curry._cut_eyoytm",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620126577/Products/regular_goat_curry._cut_eyoytm.jpg"
+        }],
+        "category": "Mutton",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Premium Goat Curry Cut-Low fat",
+        "price": "479",
+        "description": "Tender and lean meat from the choicest cuts of goat - the front leg, shoulder and back are expertly cut and trimmed for our goat curry cut. Bursting with delicate earthy flavors and with fall-off-the-bone succulence, our goat curry cut can take you to gastronomic paradise.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Premium_goat_curry_cut_Low_Fat_jnnqj6",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620126760/Products/Premium_goat_curry_cut_Low_Fat_jnnqj6.jpg"
+        }],
+        "category": "Mutton",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Premium Goat Curry Cut-1Kg",
+        "price": "929",
+        "description": "Tender and lean meat from the choicest cuts of goat - the front leg, shoulder and back are expertly cut and trimmed for our goat curry cut. Bursting with delicate earthy flavors and with fall-off-the-bone succulence, our goat curry cut can take you to gastronomic paradise.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/premium_goat_curry_cut_1kg_llj43h",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620126904/Products/premium_goat_curry_cut_1kg_llj43h.jpg"
+        }],
+        "category": "Mutton",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Free Range Mutton Shoulder Meat",
+        "price": "499",
+        "description": "One of the best cuts, our goat shoulder meat has sensational flavor and brilliant texture. Lean and supple, it is meticulously cut into smaller pieces by trained butchers for ease of use.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Free_range_mutton_shoulder_meat_a2fknq",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620127165/Products/Free_range_mutton_shoulder_meat_a2fknq.jpg"
+        }],
+        "category": "Mutton",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+	{
+        "name": "Free Range Mutton Boneless",
+        "price": "345",
+        "description": "We all love meat without the hassle of the bones! Succulent pieces of boneless mutton from the finest cuts of the goat are hand cut with precision. Simple cubed delights that perfect any dish you put them into.Ideal for: Mutton Sukka, Mutton Vindaloo, Mutton roast",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Free_Range_Mutton_boneless_n4ihon",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620127325/Products/Free_Range_Mutton_boneless_n4ihon.jpg"
+        }],
+        "category": "Mutton",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Free Range Mutton Mince",
+        "price": "369",
+        "description": "Our Mutton mice is obtained from lean cuts of boneless meat & are perfectly ground.It is fresh and fat-trimmed. Mutton mince is also known as Kheema and has a delicate fine texture with a strong flavour. It has minimal fat as compared to rich curry or biryani cuts.Ideal for:Kebabs, kheema masala or kheema pulao.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Free_Range_Mutton_mince_qrkixa",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620127520/Products/Free_Range_Mutton_mince_qrkixa.jpg"
+        }],
+        "category": "Mutton",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Free Range goat biriyani cut ",
+        "price": "489",
+        "description": "Meaty cuts, hand cut and trimmed by our expert butchers for the most heavenly, flavorsome and aromatic biryani.Ideal for:Awadhi dum biryani, Hyderabadi biryani, Ambur biryani, Parsi mutton pulao.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Free_Range_goat_biryani_cut_mmozbg",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620129565/Products/Free_Range_goat_biryani_cut_mmozbg.jpg"
+        }],
+        "category": "Mutton",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Mutton Liver",
+        "price": "130",
+        "description": "Mutton liver is an organ meat that is very high in nutritional value. It can be fried, boiled, baked or broiled into various savory dishes.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/mutton_liver_at8kh5",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620132743/Products/mutton_liver_at8kh5.jpg"
+        }],
+        "category": "Mutton",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Mutton Trotters",
+        "price": "350",
+        "description": "Mutton Trotters",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Mutton_Trotters_u3nlei",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620132913/Products/Mutton_Trotters_u3nlei.jpg"
+        }],
+        "category": "Mutton",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Free Range Goat Bones",
+        "price": "180",
+        "description": "Our free-range goat bones add oodles of flavor and richness to your stock, soup or rasam. Theirlusciousjuices percolate deep into the vegetables and water, creating culinary magic. Packed with calcium, magnesium and amino acids, our goat bones score high on health.Ideal for: Mutton bones rasam, Mutton bones stock, Mutton bones soup",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Free_range_goat_bones_yc87dn",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620133149/Products/Free_range_goat_bones_yc87dn.jpg"
+        }],
+        "category": "Mutton",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Free Range mutton rib chops",
+        "price": "469",
+        "description": "Expertly cut from the rack of the goat, our goat rib chops are chiseled to 1 rib bone per chop. Our skillful butchers then cut the meat away from the end of the rib bone, to make it ‘frenched’(a part of the bone is exposed) for a beautiful presentation.Ideal for: Spiced Rib Chops, Mutton burrakabab, Crumbed rib chops",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Free_Range_mutton_rib_chops_pcqu73",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620133383/Products/Free_Range_mutton_rib_chops_pcqu73.jpg"
+        }],
+        "category": "Mutton",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Fresh Water Pomfret-Yeri Vavval",
+        "price": "159",
+        "description": "Freshwater Pomfret has delicate white flesh with a sweet subtle flavor. Lusciously flaky with a firm texture, it is considered as one of finest species of fish for its distinct flavor and texture.Ideal for: Spicy Meen varuval, Meen Kuzhambu .",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Freshwater_pomfret_Yeri_Vavval_khdwbm",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620133612/Products/Freshwater_pomfret_Yeri_Vavval_khdwbm.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Rohu Large(800gms to 1.2Kg)",
+        "price": "249",
+        "description": "Part of the Carp family, Rohu a river fish is a rich source of protein, vitamin C and Omega 3 fatty acids. Tender and smooth in texture, our Rohu slices have a rich flavor and come with the tail and part of the fish’s head.Freshness Indicator: Firm, moist, shiny, and cold to touch, the fish should bounce back when touched.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Rohu_Large_800gms_to_1.2Kg_kjmzlw",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620133886/Products/Rohu_Large_800gms_to_1.2Kg_kjmzlw.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Catla Large(800Gmsto1.2Kg)",
+        "price": "270",
+        "description": "A river fish with a soft, delicate taste and texture, our Catla slices are fresh and filled with meaty goodness. Perfectly sliced by expert butchers, they come with the tail and part of the fish’s head which can be used to make fish stock.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Catla_Large_800Gms_to_1.2Kg_kvmr3x",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620134164/Products/Catla_Large_800Gms_to_1.2Kg_kvmr3x.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Crab(Nandu)",
+        "price": "450",
+        "description": "Crab is is the finest and most tastiest among all marine Crabs. The best way to cook this to make a flavoured Crab curry or Crab Varuval.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Crab_Nandu_vsockv",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620134428/Products/Crab_Nandu_vsockv.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Trevally(Parai)",
+        "price": "469",
+        "description": "Firm, dense and slightly oily meat, makes this fish suitable to many palates. Cleaned and served whole, our trevally is mild–flavored and is excellent choice for children as their bones can be easily removed.Ideal for: Barbecued Fish, Baked fish recipies, Fish Fry, Meen Kuzhambu, Chettinadu Fish curry, Tawa Fish Fry",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/trevally_Parai_eztszc",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620134826/Products/trevally_Parai_eztszc.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Snapper(Sankara)Medium",
+        "price": "269",
+        "description": "A lean, moist fish with a firm texture, our red snapper has a distinctive sweet, nutty taste making it versatile for many flavor components, from mild to intense seasoning. Its firm flesh makes it great for grilling and barbequing.Ideal for:ara Meen Kuzhambu, Spicy Fish Fry Masala",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/snapper_sankara_medium_fwb2bk",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620134617/Products/snapper_sankara_medium_fwb2bk.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Emperor (Vilai meen)",
+        "price": "419",
+        "description": "Emperor or Sheri as it is called in Middle East is truly majestic in appearance and taste. Large with fleshy meat, Emperor fish comes in fifty shades including Grey, Red, Silver, Yellow, Classic etc. It features as a delicacy in most Luxury hotels around the world due to its unique taste and meat quality. High in Omega 3 and protein content, the meat will be harder than other fishes after cooking.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Emperor_Vilai_meen_qp5efm",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620135434/Products/Emperor_Vilai_meen_qp5efm.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Tuna(Soorai)",
+        "price": "339",
+        "description": "The most popular and highest consumed fish in the world. We however give you the freshly caught variety, not the “out of the can” one.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Tuna_Soorai_rfortj",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620135598/Products/Tuna_Soorai_rfortj.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Prawns Medium-Deshelled",
+        "price": "259",
+        "description": "Sweet, tender and succulent, our prawns are de-shelled and dressed in their best for you. Wonderfully plump, with a firm texture and a crunchy bite, these beauties are high in protein, omega 3 fatty acids and low in calories.Ideal for: Prawn biryani, Malabar prawn curry, stir fried prawns",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Prawns_Medium_Deshelled_l9kpzk",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620135812/Products/Prawns_Medium_Deshelled_l9kpzk.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Prawns Medium-Deshelled&Deveined",
+        "price": "279",
+        "description": "Sweet, tender and succulent, our prawns are de-shelled and dressed in their best for you. Wonderfully plump, with a firm texture and a crunchy bite, these beauties are high in protein, omega 3 fatty acids and low in calories.Ideal for: Prawn biryani, Malabar prawn curry, stir fried prawns",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Prawn_Medium-deshelled_Deveined_lt3koy",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620136010/Products/Prawn_Medium-deshelled_Deveined_lt3koy.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Prawns Medium(Deshelled)1Kg",
+        "price": "509",
+        "description": "Sweet, tender and succulent, our prawns are de-shelled to make it easy for you.. Wonderfully plump, with a firm texture and a crunchy bite, these beauties are high in protein, omega 3 fatty acids and low in calories.Ideal for: Prawn biryani, Malabar prawn curry, stir fried prawns.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Prawn_Medium-deshelled_1kg_qhv07q",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620136222/Products/Prawn_Medium-deshelled_1kg_qhv07q.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Prawns Small-Deshelled",
+        "price": "239",
+        "description": "Sweet, tender and succulent, our small prawns are de-shelled and dressed in their best for you. Wonderfully plump, with a firm texture and a crunchy bite, these beauties are high in protein, omega 3 fatty acids and low in calories.Ideal for: prawn curry, stir fried prawns",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Prawn_Small_deshelled_ygioib",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620136421/Products/Prawn_Small_deshelled_ygioib.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+	{
+        "name": "Prawns Large(Deshelled&Deveined)",
+        "price": "359",
+        "description": "Sweet, tender and succulent, our large prawns are de-shelled and dressed in their best for you. Wonderfully plump, with a firm texture and a crunchy bite, these beauties are high in protein, omega 3 fatty acids and low in calories.Ideal for: prawn curry, stir fried prawns",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Prawns_Large-Deshelled_Deveined_hjklik",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620136621/Products/Prawns_Large-Deshelled_Deveined_hjklik.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "White pomfret(White Vavval)",
+        "price": "749",
+        "description": "King of all pomfret in taste and white meat. Taste of the fish increases with size. Can be eaten as steaks or Pan fried fish (in case of smaller fish)",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/White_pomfret_White_Vavval_cjzxgv",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620136873/Products/White_pomfret_White_Vavval_cjzxgv.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Barracuda(Shella)",
+        "price": "499",
+        "description": "Fresh and perfectly cleaned, our barracuda is a powerfully flavored fish with a meaty but firm texture. Its deliciously large flakes and low-fat content make it an instant hit with fish lovers.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Barracuda_Shella_h9bgsn",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620137302/Products/Barracuda_Shella_h9bgsn.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Indian Makerel(Ayila)",
+        "price": "219",
+        "description": "A delightfully meaty fish with fairly light flesh and mild flavors, our Indian mackerel is one of the most widely consumed fish varieties in India. Deliciously plump with a firm texture, its flesh stays firm for all methods of cooking but breaks up easily on the plate into large flakes.Ideal for:Stuffed recipies, Meen Kuzhambu, Fish Fry, Goan Fish curry, Bengali recipies",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Indian_Makerel_Ayila_gqcblw",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620137458/Products/Indian_Makerel_Ayila_gqcblw.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Black pomfret(Karuppu Vavval)",
+        "price": "589",
+        "description": "One of the finest species of fish, our black pomfret has a light colored flesh with a mild flavor. The flesh holds together very well for all forms of wet cooking like curries, soup and stews and pan-frying while flaking appetizingly on the plate.Ideal for: Avoli Curry, Deep fried with ginger, Halwa fish Fry, Mangalorean curry .",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Black_pomfret_Karuppu_Vavval_zjxq5j",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620137615/Products/Black_pomfret_Karuppu_Vavval_zjxq5j.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Seabass(Koduva)",
+        "price": "799",
+        "description": "With lean meat that is moderately firm with small to medium white flakes and a delicate flavor, our sea bass is packed with the tail and part of the fish head. Low in calories with very little oil, it is an excellent source of protein, selenium and essential omega-3 fatty acids.Ideal for: Baked Fish recipies, Roasted, Grilled and Pan fried recipies",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Seabass_Koduva_vl7edd",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620137789/Products/Seabass_Koduva_vl7edd.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Lady Fish(Kilanga)",
+        "price": "369",
+        "description": "Mildly flavored with a moist, mushy texture, it makes mouth-watering uniquely flavoured recipies.Expertly cleaned and served whole, our lady fish is brought to you fresh from the catch.Ideal for:Smoked Masala Lady Fish Fry, Rawa Meen Varuval, Nagli Ambat, Goan Fish Curry",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Lady_Fish_Kilangan_buucre",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620138140/Products/Lady_Fish_Kilangan_buucre.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Pearl spot(KariMeen)",
+        "price": "339",
+        "description": "We bring you the one and only tasty karimeen. Easily one of our most sought after fish. Best fried and then cooked in a specially prepared Karimeen masala.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Pearl_spot_KariMeen_si5lmc",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620138295/Products/Pearl_spot_KariMeen_si5lmc.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+	{
+        "name": "Anchovy(Nethili)",
+        "price": "289",
+        "description": "Neither tinned or salted, our omega 3 fatty acids rich anchovies are served fresh from the sea. With an amazingly deep rich flavor, these small, salt-water fish provide the perfect crunch for your party.Ideal for:Nethili Meen Kuzhambu, Nethili meen thokku, Nethili varuval",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Anchovy_Nethili_mizkby",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620140651/Products/Anchovy_Nethili_mizkby.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Seer Fish(Vanjaram)-currycut",
+        "price": "339",
+        "description": "Cant decide which cut to use for curry? We bring you a cut specialy for all your favourite fish curry recipes.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Seerfish_Vanjaram_-curry-cut_az7pp8",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620140910/Products/Seerfish_Vanjaram_-curry-cut_az7pp8.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "SeerFish(Vanjaram)half slice",
+        "price": "409",
+        "description": "Want to try that new fish fry recipe you found online but wondering where to look for seer fish half slice cut? Let us help you with all your customized cut needs.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/SeerFish_Vanjaram_half_slice_z18cwc",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620141093/Products/SeerFish_Vanjaram_half_slice_z18cwc.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Seer Fish(Vanjaram)full slice",
+        "price": "679",
+        "description": "Evenly and precisely sliced by our expert butchers, this King of fishes with its firm, flavorful flesh and just one central bone is easy to work with and can be fried, grilled, or steamed.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Seer_Fish_Vanjaram_full_slice_phywld",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620145311/Products/Seer_Fish_Vanjaram_full_slice_phywld.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Indian salmon(Kaala)",
+        "price": "899",
+        "description": "Rich in Omega 3, this fleshy saltwater fish is good for heart. It is a very tasty fish with white flaky meat and moderate texture. It is good for both curry and fry.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Indian_salmon_Kaala_kcppeu",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620145506/Products/Indian_salmon_Kaala_kcppeu.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+	{
+        "name": "Three spot crab(Kan Nandu)",
+        "price": "259",
+        "description": "Three Spot Crab - Kan Nandu",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Three_Spot_crab_Kan_Nandu_jyptbs",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620145743/Products/Three_Spot_crab_Kan_Nandu_jyptbs.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Squid(kanavai)",
+        "price": "269",
+        "description": "Popular in Middle Eastern countries for its distinctive taste. Easily classified as one of the top 10 tastiest fishes due to its soft meat, distinctive taste and less bones. Available throughout the year.Ideal for:  Fry and fish curry",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Squid_kanavai_upmyir",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620145893/Products/Squid_kanavai_upmyir.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Sea butterfish(kadal viral)",
+        "price": "359",
+        "description": "This is a whole gutted and gilled fish belonging to the catfish family, with high nutritional value, which helps in increasing cholesterol metabolism.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Sea_butterfish_kadal_viral_ps3zgi",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620146100/Products/Sea_butterfish_kadal_viral_ps3zgi.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },
+	{
+        "name": "Sardine(mathi/Kavalai)",
+        "price": "119",
+        "description": "With high oil content and Omega 3 fatty acids this member of the Herring family is one of the most pocket-friendly fishes in our collection. With a delicate flavor and soft chewable bones, our sardines are cleaned and sold as whole.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Sardine_mathi_Kavalai_jna0h5",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620146272/Products/Sardine_mathi_Kavalai_jna0h5.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Hilsa iissa(Poi)",
+        "price": "1999",
+        "description": "Hilsa is popular bengali fish amongst the people of South Asia.  Its taste is refreshingly unique and lasts for a longer time. Its nutritional value is high. It has also an aroma of its own.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Hilsa_iissa_Poi_zhxa2v",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620146482/Products/Hilsa_iissa_Poi_zhxa2v.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Shark(Sura)",
+        "price": "299",
+        "description": "Most sought after fish for making scrambled fish (puttu) since it is very fleshy and very less bones. Make scrumptious finger licking good fish curries with Shark meat.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Shark_Sura_e19dir",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620147005/Products/Shark_Sura_e19dir.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "SilverBelly(karai_podi)",
+        "price": "289",
+        "description": "With high oil content and Omega 3 fatty acids this member of the Herring family is one of the most pocket-friendly fishes in our collection. With a delicate flavor and soft chewable bones, our sardines are cleaned and sold as whole.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/SilverBelly_karai_podi_d7ejp9",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620183156/Products/SilverBelly_karai_podi_d7ejp9.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Stingray(Thirukkai)",
+        "price": "259",
+        "description": "Stingrays/thirukkai fish is the most tenderest fish with no bones which is perfect for any type of curries and gravies.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Stingray_Thirukkai_wdqjfr",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620209953/Products/Stingray_Thirukkai_wdqjfr.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Tiger Prawns Large(Deshelled&Deveined)",
+        "price": "399",
+        "description": "Sweet, tender and succulent, our large - bodied tiger prawns are de-shelled and dressed in their best for you. Wonderfully plump, with a firm texture and a crunchy bite, these beauties are high in protein, omega 3 fatty acids and low in calories.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Tiger_prawns_large-Deshelled_Deveined_cyvdtl",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620210405/Products/Tiger_prawns_large-Deshelled_Deveined_cyvdtl.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Fresh norwegian salmon",
+        "price": "519",
+        "description": "Wild Caught salmon fish is one of the most nutritious foods on the planet. It's credited with everything from extending the life span to preventing heart attacks and cancer. It helps to boost brain function to improve bone and skin health. And not only does the salmon nutrition profile possess one of the highest omega-3 contents of any type of fish.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Fresh_norwegian_salmon_mkyphr",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620210636/Products/Fresh_norwegian_salmon_mkyphr.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Bombay Duck",
+        "price": "259",
+        "description": "Bombay duck",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Bombay_Duck_fvvvic",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620210817/Products/Bombay_Duck_fvvvic.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Red Mullet(Nagarai)",
+        "price": "289",
+        "description": "Eating fish regularly is beneficial to our body in many ways, this mild, unique, firmly textured pink flesh Red mullet fish or Nagarai has an essential nutrients which is good for your heart, skin, eyes, brain, vessels &  joints. Ideal for deep fry & curry.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Red_mullet_Nagarai_wxlufy",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620210936/Products/Red_mullet_Nagarai_wxlufy.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Pabda",
+        "price": "329",
+        "description": "Pabda is a real treat for the seafood lovers especially who likes the freshwater fish. It is a small freshwater fish from the catfish family. A soft,oily & fleshy fish with a sweet flavour and extremely rich in taste , not only great in taste also has a high nutrition value. Cleaned, degutted whole fish comes in a neatly packed and ready to cook . Ideal for all types of curries and a perfect combination to have with steamed rice.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Pabda_ridfoz",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620211219/Products/Pabda_ridfoz.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Tengra",
+        "price": "279",
+        "description": "Tengra is a small fresh water fish and one of the tastiest fish in the catfish family. It contains significant amount of protein, fat, calcium and iron.Cleaned, degutted whole fish comes in a neatly packed and ready to cook. Ideal for all types of curries and a perfect combination to have with steamed rice",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Tengra_phmyyz",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620211356/Products/Tengra_phmyyz.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Aar(Kattai Keluthi)",
+        "price": "659",
+        "description": "Aar is a freshwater fish from the catfish family with less bones, very delicate and fleshy. Perfectly sliced bengali cut with head and tail well cleaned and degutted fish comes in a neatly packed and ready to cook. Ideal for all types of curries and a perfect combination to have with steamed rice.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Aar_Kattai_Keluthi_zdkdns",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620211471/Products/Aar_Kattai_Keluthi_zdkdns.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Olive barb(Kulla Kendai)",
+        "price": "369",
+        "description": "Olive Barb / Chadu Perigi / Budda Pakke / Kulla Kendai / Kuran Chelbi",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Olive_barb_Kulla_Kendai_fskuv1",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620211606/Products/Olive_barb_Kulla_Kendai_fskuv1.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Labeo Bata(Kindameen)",
+        "price": "189",
+        "description": "Bata is a meaty fish which does well in Indian fish curries. It carries a subtle flavour which is best enjoyed when simmered in a curry, however, it can also be fried with the mildest of seasoning: a dash of pepper and salt with some lemon juice. The head and tail are cleaned and trimmed, making it ready to cook and easy to eat.",
+	    "ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Labeo_bata_Kindameen_bykl7j",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620211756/Products/Labeo_bata_Kindameen_bykl7j.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Flathead grey mullet(Saala-Kasmeen)",
+        "price": "239",
+        "description": "The Flathead Grey Mullet is an extremely versatile fish. Best used in a good curry or even fried for a tasty side dish. Parshe can be served alongside rice for a healthy meal. It is rich in vitamins, minerals, proteins and carries a good amount of healthy fats, making it a nutrition filled choice among fish. It is cleaned, gutted and packed along with the head and tail.",
+		"ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Flathead_grey_mullet_Saala-Kasmeen_weuawr",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620211977/Products/Flathead_grey_mullet_Saala-Kasmeen_weuawr.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Scampi (Golda Chingri)",
+        "price": "349",
+        "description": "Easily distinguished by its greenish-blue colour, scampi is a freshwater prawn that has a distinctive taste and flavour. It is a hit with all, giving the Bengali favourite Hilsa a tough fight for the top spot in taste. The fish is delectable when paired in a curry with tender coconut/coconut milk. It can also be cooked in banana leaves to make a great side for a portion of steamed rice. The scampi is popularly eaten with the head. This larger scampi is perfect for those who love prawns.",
+		"ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Scampi_Golda_Chingri_sgvyah",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620212110/Products/Scampi_Golda_Chingri_sgvyah.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Baby_carp(Baby catla-Rohu)",
+        "price": "139",
+        "description": "This is a small carp which weighs less than 500gms. It is an abundantly rich source of nutrients such as vitamins and minerals. Because of its famous health benefits, this fish is usually used in the preparation of a thin stew with vegetables to promote better health in the undernourished and the sick. It is quickly digested by the body and is a great choice for young kids as well. Properly scaled, gutted and packaged with the head and tail, baby carp can give an extra nutritional kick to any meal.",
+		"ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Baby_carp_Baby_catla-Rohu_hxpryv",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620212324/Products/Baby_carp_Baby_catla-Rohu_hxpryv.jpg"
+        }],
+        "category": "Sea Foods",
+        "seller": "eBay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": [] 
+    },	
+	{
+        "name": "Scampi Big(Golda Chingri Big)",
+        "price": "349",
+        "description": "Easily distinguished by its greenish-blue colour, scampi is a freshwater prawn that has a distinctive taste and flavour. It is a hit with all, giving the Bengali favourite Hilsa a tough fight for the top spot in taste. The fish is delectable when paired in a curry with tender coconut/coconut milk. It can also be cooked in banana leaves to make a great side for a portion of steamed rice. The scampi is popularly eaten with the head. This larger scampi is perfect for those who love prawns.",
+		"ratings": "4.5",
+        "images": [{
+            "public_id": "Products/Scampi_big_Golda_Chingri_Big_yhfhcx",
+            "url": "https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620212532/Products/Scampi_big_Golda_Chingri_Big_yhfhcx.jpg"
+        }],
+        "category": "Sea Foods",
         "seller": "eBay",
         "stock": 50,
         "numOfReviews": 32,

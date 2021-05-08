@@ -18,7 +18,7 @@ const Header = () => {
                             type="text"
                             id="search_field"
                             className="form-control"
-                            placeholder="Enter Product Name ..."
+                            placeholder="Search for a Product ..."
                         />
                         <div className="input-group-append">
                             <button id="search_btn" className="btn">
