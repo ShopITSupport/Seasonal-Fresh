@@ -9,10 +9,16 @@ const sendToken = require('../utils/jwtToken');
 const sendEmail = require('../utils/sendEmail');
 
 const crypto = require('crypto');
-const { send } = require('process');
+const cloudinary = require('cloudinary');
 
 // Register User => /api/v1/register
 exports.registerUser = catchAsyncError( async(req, res, next) => {
+
+    const result = await cloudinary.v2.uploader.upload(req.body.avatar, {
+        folder: 'Avatar',
+        width: 150,
+        crop: 'scale'
+    })
 
     const { name, email, password } = req.body;
 
@@ -21,8 +27,8 @@ exports.registerUser = catchAsyncError( async(req, res, next) => {
         email,
         password,
         avatar: {
-            public_id: 'wp6370545-money-heist-hd-desktop-wallpapers_zplli3',
-            url: 'https://res.cloudinary.com/dm7kwkvjg/image/upload/v1620011056/wp6370545-money-heist-hd-desktop-wallpapers_zplli3.jpg'
+            public_id: result.public_id,
+            url: result.secure_url
         }
     })
 
