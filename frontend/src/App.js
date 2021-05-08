@@ -6,6 +6,7 @@ import Home from './components/Home'
 import ProductDetails from './components/product/ProductDetails'
 
 import Login from './components/user/Login'
+import Register from './components/user/Register'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/search/:keyword" component={Home}></Route>
           <Route path="/product/:id" component={ProductDetails} exact></Route>
           <Route path="/login" component={Login}></Route>
+          <Route path="/register" component={Register}></Route>
         </div>
         <Footer />
       </div>
