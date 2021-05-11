@@ -10,6 +10,7 @@ import Login from './components/user/Login'
 import Register from './components/user/Register'
 import Profile from './components/user/Profile'
 import ProtectedRoute from './components/route/ProtectedRoute'
+import UpdateProfile from './components/user/UpdateProfile'
 
 import { loadUser } from './actions/userActions'
 import store from './store'
@@ -31,6 +32,7 @@ function App() {
           <Route path="/login" component={Login}></Route>
           <Route path="/register" component={Register}></Route>
           <ProtectedRoute path="/me" component={Profile} exact></ProtectedRoute>
+          <ProtectedRoute path="/me/update" component={UpdateProfile} exact></ProtectedRoute>
         </div>
         <Footer />
       </div>
