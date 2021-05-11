@@ -67,7 +67,7 @@ const Home = ({ match }) => {
             {loading ? <Loader /> : (
                 <Fragment>
                     <MetaData title={'Buy fresh quality foods online'} />
-                    <h1 id="products_heading">Latest Products</h1>
+                    <h1 id="products_heading">Our Products</h1>
 
                     <section id="products" className="container mt-5">
                         <div className="row">
