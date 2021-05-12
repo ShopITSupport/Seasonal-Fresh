@@ -17,7 +17,6 @@ const UpdatePassword = ({ history }) => {
 
     const dispatch = useDispatch();
 
-    const { user } = useSelector(state => state.auth);
     const { error, isUpdated, loading } = useSelector(state => state.user)
 
 
