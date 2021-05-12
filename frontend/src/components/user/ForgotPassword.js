@@ -15,7 +15,7 @@ const ForgotPassword = () => {
 
     const dispatch = useDispatch();
 
-    const { error, loading, message } = useSelector(state => state.user)
+    const { error, loading, message } = useSelector(state => state.forgotPassword)
 
 
     useEffect(() => {
