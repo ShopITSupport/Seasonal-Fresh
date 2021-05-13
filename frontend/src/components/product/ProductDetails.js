@@ -111,7 +111,7 @@ const ProductDetails = ({ match }) => {
 
                         <button id="review_btn" type="button" className="btn btn-primary mt-4" data-toggle="modal" data-target="#ratingModal">
                             Submit Your Review
-                </button>
+                        </button>
 
                         <div className="row mt-2 mb-5">
                             <div className="rating w-50">
