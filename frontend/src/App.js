@@ -16,6 +16,7 @@ import ForgotPassword from './components/user/ForgotPassword'
 import NewPassword from './components/user/NewPassword'
 import Cart from './components/cart/Cart'
 import Shipping from './components/cart/Shipping'
+import ConfirmOrder from './components/cart/ConfirmOrder'
 
 import { loadUser } from './actions/userActions'
 import store from './store'
@@ -43,6 +44,7 @@ function App() {
           <ProtectedRoute path="/me/update" component={UpdateProfile} exact></ProtectedRoute>
           <ProtectedRoute path="/password/update" component={UpdatePassword} exact></ProtectedRoute>
           <ProtectedRoute path="/shipping" component={Shipping} ></ProtectedRoute>
+          <ProtectedRoute path="/order/confirm" component={ConfirmOrder} ></ProtectedRoute>
         </div>
         <Footer />
       </div>
