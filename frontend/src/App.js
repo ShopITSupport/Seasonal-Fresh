@@ -1,4 +1,5 @@
-import { useEffect } from 'react'
+import axios from 'axios';
+import { useEffect, useState } from 'react'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 
 import Header from './components/layout/Header'
@@ -15,14 +16,31 @@ import UpdatePassword from './components/user/UpdatePassword'
 import ForgotPassword from './components/user/ForgotPassword'
 import NewPassword from './components/user/NewPassword'
 import Cart from './components/cart/Cart'
+import Shipping from './components/cart/Shipping'
+import ConfirmOrder from './components/cart/ConfirmOrder'
+import Payment from './components/cart/Payment'
+import OrderSuccess from './components/cart/OrderSuccess'
 
 import { loadUser } from './actions/userActions'
 import store from './store'
 
+import { Elements } from '@stripe/react-stripe-js'
+import { loadStripe } from '@stripe/stripe-js'
+
 function App() {
+
+  const [stripeApiKey, setStripeApiKey] = useState('');
 
   useEffect(() => {
     store.dispatch(loadUser())
+    
+    async function getStripeApiKey() {
+
+      const { data } = await axios.get('/api/v1/stripeapi');
+      setStripeApiKey(data.stripeApiKey)
+
+    }
+    getStripeApiKey();
   }, [])
 
   return (
@@ -41,6 +59,13 @@ function App() {
           <ProtectedRoute path="/me" component={Profile} exact></ProtectedRoute>
           <ProtectedRoute path="/me/update" component={UpdateProfile} exact></ProtectedRoute>
           <ProtectedRoute path="/password/update" component={UpdatePassword} exact></ProtectedRoute>
+          <ProtectedRoute path="/shipping" component={Shipping} ></ProtectedRoute>
+          <ProtectedRoute path="/order/confirm" component={ConfirmOrder} ></ProtectedRoute>
+          {stripeApiKey && <Elements stripe={loadStripe(stripeApiKey)}>
+              <ProtectedRoute path="/payment" component={Payment} ></ProtectedRoute>
+            </Elements>
+          }
+          <ProtectedRoute path="/success" component={OrderSuccess} ></ProtectedRoute>
         </div>
         <Footer />
       </div>
