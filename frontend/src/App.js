@@ -18,9 +18,13 @@ import NewPassword from './components/user/NewPassword'
 import Cart from './components/cart/Cart'
 import Shipping from './components/cart/Shipping'
 import ConfirmOrder from './components/cart/ConfirmOrder'
+import Payment from './components/cart/Payment'
 
 import { loadUser } from './actions/userActions'
 import store from './store'
+
+import { Elements } from '@stripe/react-stripe-js'
+import { loadStripe } from '@stripe/stripe-js'
 
 function App() {
 
@@ -56,6 +60,10 @@ function App() {
           <ProtectedRoute path="/password/update" component={UpdatePassword} exact></ProtectedRoute>
           <ProtectedRoute path="/shipping" component={Shipping} ></ProtectedRoute>
           <ProtectedRoute path="/order/confirm" component={ConfirmOrder} ></ProtectedRoute>
+          {stripeApiKey && <Elements stripe={loadStripe(stripeApiKey)}>
+              <ProtectedRoute path="/payment" component={Payment} ></ProtectedRoute>
+            </Elements>
+          }
         </div>
         <Footer />
       </div>
