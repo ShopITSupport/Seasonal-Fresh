@@ -509,7 +509,7 @@ footer {
 
 #sidebar .sidebar-header {
   padding: 20px;
-  background: #232f3e;
+  background: darkgray;
 }
 #sidebar ul.components {
   padding: 5px 0px;
@@ -535,7 +535,7 @@ footer {
 #sidebar ul li.active > a,
 a[aria-expanded='true'] {
   color: #fff;
-  background: #232f3e;
+  background: darkgray;
 }
 a[data-toggle='collapse'] {
   position: relative;
