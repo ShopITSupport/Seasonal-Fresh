@@ -27,7 +27,7 @@ body {
 }
 
 nav {
-  background-color: #232f3e;
+  background-color: darkgray;
   padding: 1rem 1rem;
 }
 
@@ -89,11 +89,12 @@ nav {
 }
 
 .card-text {
+  color: #fdc202;
   font-size: 1.4rem;
 }
 
 #view_btn {
-  background-color: #fa9c23;
+  background-color: darkgray;
   color: white;
 }
 
@@ -247,15 +248,15 @@ footer {
 
 #checkout_btn,
 .review-btn {
-  background-color: #fa9c23;
-  border-color: #fa9c23;
+  background-color: #fdc202;
+  border-color: #fdc202;
   margin-top: 2rem;
   border-radius: 5rem;
 }
 
 #view_order_details {
-  background-color: #fa9c23;
-  border-color: #fa9c23;
+  background-color: #fdc202;
+  border-color: #fdc202;
 }
 
 #order_summary {
@@ -307,8 +308,8 @@ footer {
 }
 
 .wrapper form .btn {
-  background-color: #fa9c23;
-  border-color: #fa9c23;
+  background-color: #fdc202;
+  border-color: #fdc202;
   color: white;
   margin-top: 2.5rem;
 }
@@ -457,8 +458,8 @@ footer {
 }
 
 .update-btn {
-  background-color: #fa9c23;
-  border-color: #fa9c23;
+  background-color: #fdc202;
+  border-color: #fdc202;
   color: white;
 }
 
@@ -468,16 +469,16 @@ footer {
 
 /* Pagination */
 .page-item.active .page-link {
-  background-color: #fa9c23;
-  border-color: #fa9c23;
+  background-color: #fdc202;
+  border-color: #fdc202;
 }
 
 .page-link {
-  color: #fa9c23;
+  color: #fdc202;
 }
 
 .page-link:hover {
-  color: #fa9c23;
+  color: #fdc202;
 }
 
 /* Admin Sidebar */
