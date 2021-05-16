@@ -27,6 +27,7 @@ import OrderDetails from './components/order/OrderDetails'
 import Dashboard from './components/admin/Dashboard'
 import ProductsList from './components/admin/ProductsList'
 import NewProduct from './components/admin/NewProduct'
+import UpdateProduct from './components/admin/UpdateProduct'
 
 import { loadUser } from './actions/userActions'
 import store from './store'
@@ -79,9 +80,10 @@ function App() {
           }
           <ProtectedRoute path="/success" component={OrderSuccess} ></ProtectedRoute>
         </div>
-        <ProtectedRoute path="/dashboard" isAdmin={true} component={Dashboard} ></ProtectedRoute>
-        <ProtectedRoute path="/admin/products" isAdmin={true} component={ProductsList} ></ProtectedRoute>
-        <ProtectedRoute path="/admin/product" isAdmin={true} component={NewProduct} ></ProtectedRoute>
+        <ProtectedRoute path="/dashboard" isAdmin={true} component={Dashboard} exact></ProtectedRoute>
+        <ProtectedRoute path="/admin/products" isAdmin={true} component={ProductsList} exact></ProtectedRoute>
+        <ProtectedRoute path="/admin/product" isAdmin={true} component={NewProduct} exact></ProtectedRoute>
+        <ProtectedRoute path="/admin/product/:id" isAdmin={true} component={UpdateProduct} exact></ProtectedRoute>
         {!loading && user.role !== 'admin' && (
           <Footer />
         )}
