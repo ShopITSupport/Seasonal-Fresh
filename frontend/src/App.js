@@ -25,7 +25,7 @@ import OrderDetails from './components/order/OrderDetails'
 
 //Admin routes
 import Dashboard from './components/admin/Dashboard'
-import ProductList from './components/admin/ProductList'
+import ProductsList from './components/admin/ProductsList'
 import NewProduct from './components/admin/NewProduct'
 
 import { loadUser } from './actions/userActions'
@@ -80,7 +80,7 @@ function App() {
           <ProtectedRoute path="/success" component={OrderSuccess} ></ProtectedRoute>
         </div>
         <ProtectedRoute path="/dashboard" isAdmin={true} component={Dashboard} ></ProtectedRoute>
-        <ProtectedRoute path="/admin/products" isAdmin={true} component={ProductList} ></ProtectedRoute>
+        <ProtectedRoute path="/admin/products" isAdmin={true} component={ProductsList} ></ProtectedRoute>
         <ProtectedRoute path="/admin/product" isAdmin={true} component={NewProduct} ></ProtectedRoute>
         {!loading && user.role !== 'admin' && (
           <Footer />
