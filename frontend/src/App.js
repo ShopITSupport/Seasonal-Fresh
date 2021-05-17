@@ -28,6 +28,8 @@ import Dashboard from './components/admin/Dashboard'
 import ProductsList from './components/admin/ProductsList'
 import NewProduct from './components/admin/NewProduct'
 import UpdateProduct from './components/admin/UpdateProduct'
+import OrdersList from './components/admin/OrdersList'
+import ProcessOrder from './components/admin/ProcessOrder'
 
 import { loadUser } from './actions/userActions'
 import store from './store'
@@ -84,6 +86,8 @@ function App() {
         <ProtectedRoute path="/admin/products" isAdmin={true} component={ProductsList} exact></ProtectedRoute>
         <ProtectedRoute path="/admin/product" isAdmin={true} component={NewProduct} exact></ProtectedRoute>
         <ProtectedRoute path="/admin/product/:id" isAdmin={true} component={UpdateProduct} exact></ProtectedRoute>
+        <ProtectedRoute path="/admin/orders" isAdmin={true} component={OrdersList} exact></ProtectedRoute>
+        <ProtectedRoute path="/admin/order/:id" isAdmin={true} component={ProcessOrder} exact></ProtectedRoute>
         {!loading && user.role !== 'admin' && (
           <Footer />
         )}
